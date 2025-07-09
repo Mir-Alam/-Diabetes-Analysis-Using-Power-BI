@@ -2,7 +2,7 @@
 This project presents an basic analysis of a diabetes dataset with a focus on two primary objectives: Comparison of Type 1 and Type 2 Diabetes &amp; Diabetes Diagnostic Criteria
 The analysis was performed using Power BI to uncover meaningful insights and support data-driven conclusions.
 
-# Project Objectives
+## Project Objectives
 Compare Type 1 and Type 2 Diabetes:
 Explore demographic, clinical, and statistical differences between the two major types of diabetes.
 
